@@ -5,7 +5,9 @@ Eng : This is just simple hash checker and you can modified it like a boss
 Ind : Seperti yang kamu liat ini cuman hash checker dan kamu bisa mengubahnya seperti orang tidak punya dosa
 
 
-
+# How
+python hashchecker.py [path-to-file]
+Example = python hashchecker.py me.txt
 
 # Licence
 
